@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="969" height="555" viewBox="0 0 246 246">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-custom_1);
+      }
+
+      .cls-2, .cls-5 {
+        fill: #00c853;
+        font-size: 20px;
+      }
+
+      .cls-2 {
+        font-family: Jura-Bold, Jura;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-4 {
+        fill: #fafafa;
+      }
+
+      .cls-5 {
+        font-family: FiraCode-Light, Fira Code;
+        font-weight: 300;
+      }
+    </style>
+    <clipPath id="clip-custom_1">
+      <rect width="246" height="246"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" class="cls-1">
+    <text id="Point_Blank" data-name="Point Blank" class="cls-2" transform="translate(66 131)"><tspan x="0" y="0">Point</tspan><tspan class="cls-3" y="0"> </tspan><tspan class="cls-4" y="0">Blank</tspan></text>
+    <text id="_._" data-name="&lt;. &gt;" class="cls-5" transform="translate(99 106)"><tspan x="0" y="0">&lt;. &gt;</tspan></text>
+  </g>
+</svg>
